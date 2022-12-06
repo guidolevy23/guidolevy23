@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/guido-levy-147640246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guido-levy-147640246" height="30" width="40" /></a>
 </p>
-<hr/>
+<br/>
 <h1>About me:</h1>
 <p>Buenas, que tal? Mi nombre es Guido y les voy a contar un poco sobre mi. 
 Arranque mi carrera en tecnología luego de tener tiempo de no saber si lo que había elegido como carrera iba a ser mi decisión final. Arranque con Ingeniería industrial, con dudas, y mediante fui avanzando esas dudas se intensificaron. Dentro de la carrera tuve un acercamiento a la programación cuando vimos Python, y automáticamente me encanto, me pasaba tiempo libre armando aplicaciones y juegos con Python pero quedaba todo ahí. Hasta que decidí dar un paso al costado a la ingeniería y enfocarme en la programación.
