@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react js, javascript**
 
-- 📫 How to reach me **levyguido@gmail.com**
+- 📫 How to reach me **levyguidocarp@gmail.com**
 
 - ⚡ Fun fact **I love telling jokes**
 
